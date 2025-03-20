@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "image": "https://res.cloudinary.com/dmddi5ncx/image/upload/v1741898063/practicas/carrito/image-waffle-desktop_ccdvc7.jpg",
+        "name": "Waffle with Berries",
+        "category": "Waffle",
+        "price": 6.50
+    },
+    {
+        "id": 2,
+        "image": "https://res.cloudinary.com/dmddi5ncx/image/upload/v1741898059/practicas/carrito/image-creme-brulee-desktop_oq8il0.jpg",
+        "name": "Vanilla Bean Crème Brûlée",
+        "category": "Crème Brûlée",
+        "price": 7.00
+    },
+    {
+        "id": 3,
+        "image": "https://res.cloudinary.com/dmddi5ncx/image/upload/v1741898060/practicas/carrito/image-macaron-desktop_rmcbwa.jpg",
+        "name": "Macaron Mix of Five",
+        "category": "Macaron",
+        "price": 8.00
+    },
+    {
+        "id": 4,
+        "image": "https://res.cloudinary.com/dmddi5ncx/image/upload/v1741898062/practicas/carrito/image-tiramisu-desktop_it7ce6.jpg",
+        "name": "Classic Tiramisu",
+        "category": "Tiramisu",
+        "price": 5.50
+    },
+    {
+        "id": 5,
+        "image": "https://res.cloudinary.com/dmddi5ncx/image/upload/v1741898058/practicas/carrito/image-baklava-desktop_gn4sko.jpg",
+        "name": "Pistachio Baklava",
+        "category": "Baklava",
+        "price": 4.00
+    },
+    {
+        "id": 6,
+        "image": "https://res.cloudinary.com/dmddi5ncx/image/upload/v1741898060/practicas/carrito/image-meringue-desktop_xwii6c.jpg",
+        "name": "Lemon Meringue Pie",
+        "category": "Pie",
+        "price": 5.00
+    },
+    {
+        "id": 7,
+        "image": "https://res.cloudinary.com/dmddi5ncx/image/upload/v1741898059/practicas/carrito/image-cake-desktop_noclgj.jpg",
+        "name": "Red Velvet Cake",
+        "category": "Cake",
+        "price": 4.50
+    },
+    {
+        "id": 8,
+        "image": "https://res.cloudinary.com/dmddi5ncx/image/upload/v1741898058/practicas/carrito/image-brownie-desktop_zfdipr.jpg",
+        "name": "Salted Caramel Brownie",
+        "category": "Brownie",
+        "price": 4.50
+    },
+    {
+        "id": 9,
+        "image": "https://res.cloudinary.com/dmddi5ncx/image/upload/v1741898061/practicas/carrito/image-panna-cotta-desktop_k4rwvs.jpg",
+        "name": "Vanilla Panna Cotta",
+        "category": "Panna Cotta",
+        "price": 6.50
+    }
+]
