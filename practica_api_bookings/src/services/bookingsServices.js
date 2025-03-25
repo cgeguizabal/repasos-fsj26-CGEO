@@ -34,3 +34,30 @@ const getBookingsByCalendar = async (accomodationid) => {
 
 export {getBookings, getBookingsByCalendar}
 
+
+
+// const getBookingsByCalendar = async (accomodationid, startDate = '', endDate = '') => {
+//     try {
+//         if (!token) {
+//             throw new Error('No hay token disponible');
+//         }
+
+//         let url = `${import.meta.env.VITE_APP_URL}/bookings/calendar/${accomodationid}`;
+//         // Agregar parámetros opcionales si existen
+//         const params = new URLSearchParams();
+//         if (startDate) params.append('start_date', startDate);
+//         if (endDate) params.append('end_date', endDate);
+
+//         if (params.toString()) {
+//             url += `?${params.toString()}`;
+//         }
+
+//         const response = await axios.get(url, {
+//             headers: {Authorization: `Bearer ${token}`}
+//         });
+//         return response.data; 
+//     } catch (error) {
+//         console.error("Error al obtener los datos", error);
+//         return null;
+//     }
+// }
